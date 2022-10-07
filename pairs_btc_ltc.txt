@@ -1,0 +1,2 @@
+BTC_LTC
+LTC_BTC
